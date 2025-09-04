@@ -1,1 +1,1 @@
-# FinConnect
+#I-manage
